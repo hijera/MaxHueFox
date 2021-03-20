@@ -7,8 +7,9 @@ Code Based on that thread: https://cycling74.com/forums/controlling-philips-hue-
 
 ## Installation<br>
 To make it work, You need Node.js and npm<br>
-Copy files to ~/Documents/Ableton/User Library/Presets/Instruments/Max Instrument/MaxHueFox
-open npm command line and run:
+* Copy files to ~/Documents/Ableton/User Library/Presets/Instruments/Max Instrument/MaxHueFox
+<br>
+* open npm command line and run:
 <br>
 <code>
 npm i phea 
