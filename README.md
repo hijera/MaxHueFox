@@ -10,13 +10,13 @@ To make it work, You need Node.js and npm<br>
 * Copy files to ~/Documents/Ableton/User Library/Presets/Instruments/Max Instrument/MaxHueFox
 <br>
 * open npm command line and run:
-<br>
+
 <code>
 npm i phea 
 </code>
-<br>
+
 * Open url http://<YOUR_HUE_BRIDGE>/debug/clip.html.
-<br>
+
 * Change url to "/api" , write down to body 
 <code>
   {"devicetype":"YOUR_NEW_USERNAME", "generateclientkey":true}  
