@@ -1,0 +1,15 @@
+{
+  "name": "maxhuefox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "MaxHueNode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-dtls-client": "^0.7.0",
+    "phea": "^1.0.6"
+  }
+}
