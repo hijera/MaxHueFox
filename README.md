@@ -35,7 +35,7 @@ npm i phea
   }
   ]
  ```
-  <br>
+
 * Now write down these parameters to "var options" in file MaxHueNode.js instead of "YOUR USERNAME" and "YOUR PSK KEY".
   Dont forget to change "address" parameter in options to your Hue Bridge ip address in internal network.
   So, now MaxHueFox.js code from string 18 should looks like:
@@ -48,7 +48,6 @@ npm i phea
       "dtlsUpdatesPerSecond ": 60
       }
 ```
-<br>
 
 
 Now you can start Ableton Live, select Max For Live -> Max Instruments -> MaxHueFox and drag and drop it on any midi track.
